@@ -1,3 +1,5 @@
+### 🎶 **Amateur, Amateur, Amateur, Amateur, Amateur, Amateur, Amateur, Amatueur, ¡Oh! ¡Oh! ¡Oh! Amateur ... ¡Rock me Amadeus!** 🎶
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=V1lch1s&count_private=true&show_icons=true&hide_border=true&theme=merko&include_all_commits=true&hide_border=true&card_width=500&bg_color=000000&hide_title=false&border_radius=15.0"/>
   
