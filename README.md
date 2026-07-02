@@ -1,4 +1,4 @@
-Hello there 🖐️! I'm V1lch1s
+Hello there 🖐️! I'm V1lch1s \
 _Learning how to craft adapting solutions to solve the problem of **life**. Easily followable steps, even by a machine_
 
 
